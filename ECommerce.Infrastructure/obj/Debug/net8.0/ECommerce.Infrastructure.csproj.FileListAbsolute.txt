@@ -1,0 +1,16 @@
+C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.Infrastructure\bin\Debug\net8.0\ECommerce.Infrastructure.deps.json
+C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.Infrastructure\bin\Debug\net8.0\ECommerce.Infrastructure.dll
+C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.Infrastructure\bin\Debug\net8.0\ECommerce.Infrastructure.pdb
+C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.Infrastructure\bin\Debug\net8.0\ECommerce.Core.dll
+C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.Infrastructure\bin\Debug\net8.0\ECommerce.Core.pdb
+C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.Infrastructure\obj\Debug\net8.0\ECommerce.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.Infrastructure\obj\Debug\net8.0\ECommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.Infrastructure\obj\Debug\net8.0\ECommerce.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.Infrastructure\obj\Debug\net8.0\ECommerce.Infrastructure.AssemblyInfo.cs
+C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.Infrastructure\obj\Debug\net8.0\ECommerce.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.Infrastructure\obj\Debug\net8.0\ECommerce.Infrastructure.sourcelink.json
+C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.Infrastructure\obj\Debug\net8.0\ECommerc.B0B31267.Up2Date
+C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.Infrastructure\obj\Debug\net8.0\ECommerce.Infrastructure.dll
+C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.Infrastructure\obj\Debug\net8.0\refint\ECommerce.Infrastructure.dll
+C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.Infrastructure\obj\Debug\net8.0\ECommerce.Infrastructure.pdb
+C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.Infrastructure\obj\Debug\net8.0\ref\ECommerce.Infrastructure.dll

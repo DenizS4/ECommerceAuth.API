@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deniz.sanli\\source\\repos\\ECommerce.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B5873C-5567-463D-8F61-7AAA657FD111}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|c:\\users\\deniz.sanli\\source\\repos\\ecommerce.api\\ecommerce.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B5873C-5567-463D-8F61-7AAA657FD111}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34FE7C7-4887-4FC2-9A09-8BA41D05C9CE}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\deniz.sanli\\source\\repos\\ecommerce.api\\ecommerce.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34FE7C7-4887-4FC2-9A09-8BA41D05C9CE}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB84A86-C64D-4E13-A088-743AF487C856}|ECommerce.Core\\ECommerce.Core.csproj|c:\\users\\deniz.sanli\\source\\repos\\ecommerce.api\\ecommerce.core\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB84A86-C64D-4E13-A088-743AF487C856}|ECommerce.Core\\ECommerce.Core.csproj|solutionrelative:ecommerce.core\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB84A86-C64D-4E13-A088-743AF487C856}|ECommerce.Core\\ECommerce.Core.csproj|c:\\users\\deniz.sanli\\source\\repos\\ecommerce.api\\ecommerce.core\\mappingprofiles\\usermapprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB84A86-C64D-4E13-A088-743AF487C856}|ECommerce.Core\\ECommerce.Core.csproj|solutionrelative:ecommerce.core\\mappingprofiles\\usermapprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB84A86-C64D-4E13-A088-743AF487C856}|ECommerce.Core\\ECommerce.Core.csproj|c:\\users\\deniz.sanli\\source\\repos\\ecommerce.api\\ecommerce.core\\dto\\authenticationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB84A86-C64D-4E13-A088-743AF487C856}|ECommerce.Core\\ECommerce.Core.csproj|solutionrelative:ecommerce.core\\dto\\authenticationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB84A86-C64D-4E13-A088-743AF487C856}|ECommerce.Core\\ECommerce.Core.csproj|c:\\users\\deniz.sanli\\source\\repos\\ecommerce.api\\ecommerce.core\\dto\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB84A86-C64D-4E13-A088-743AF487C856}|ECommerce.Core\\ECommerce.Core.csproj|solutionrelative:ecommerce.core\\dto\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34FE7C7-4887-4FC2-9A09-8BA41D05C9CE}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\deniz.sanli\\source\\repos\\ecommerce.api\\ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34FE7C7-4887-4FC2-9A09-8BA41D05C9CE}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34FE7C7-4887-4FC2-9A09-8BA41D05C9CE}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\deniz.sanli\\source\\repos\\ecommerce.api\\ecommerce.api\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34FE7C7-4887-4FC2-9A09-8BA41D05C9CE}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB84A86-C64D-4E13-A088-743AF487C856}|ECommerce.Core\\ECommerce.Core.csproj|c:\\users\\deniz.sanli\\source\\repos\\ecommerce.api\\ecommerce.core\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB84A86-C64D-4E13-A088-743AF487C856}|ECommerce.Core\\ECommerce.Core.csproj|solutionrelative:ecommerce.core\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB84A86-C64D-4E13-A088-743AF487C856}|ECommerce.Core\\ECommerce.Core.csproj|c:\\users\\deniz.sanli\\source\\repos\\ecommerce.api\\ecommerce.core\\enums\\genderoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB84A86-C64D-4E13-A088-743AF487C856}|ECommerce.Core\\ECommerce.Core.csproj|solutionrelative:ecommerce.core\\enums\\genderoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB84A86-C64D-4E13-A088-743AF487C856}|ECommerce.Core\\ECommerce.Core.csproj|c:\\users\\deniz.sanli\\source\\repos\\ecommerce.api\\ecommerce.core\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB84A86-C64D-4E13-A088-743AF487C856}|ECommerce.Core\\ECommerce.Core.csproj|solutionrelative:ecommerce.core\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B5873C-5567-463D-8F61-7AAA657FD111}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|c:\\users\\deniz.sanli\\source\\repos\\ecommerce.api\\ecommerce.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B5873C-5567-463D-8F61-7AAA657FD111}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34FE7C7-4887-4FC2-9A09-8BA41D05C9CE}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\deniz.sanli\\source\\repos\\ecommerce.api\\ecommerce.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E34FE7C7-4887-4FC2-9A09-8BA41D05C9CE}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deniz.sanli\\source\\repos\\ECommerce.API\\ECommerce.Core\\Entities\\ApplicaionUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ECommerce.Core\\Entities\\ApplicaionUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserMapProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\deniz.sanli\\source\\repos\\ECommerce.API\\ECommerce.Core\\MappingProfiles\\UserMapProfiles.cs",
+              "RelativeDocumentMoniker": "ECommerce.Core\\MappingProfiles\\UserMapProfiles.cs",
+              "ToolTip": "C:\\Users\\deniz.sanli\\source\\repos\\ECommerce.API\\ECommerce.Core\\MappingProfiles\\UserMapProfiles.cs",
+              "RelativeToolTip": "ECommerce.Core\\MappingProfiles\\UserMapProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAArwBoAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T07:54:12.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\deniz.sanli\\source\\repos\\ECommerce.API\\ECommerce.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ECommerce.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\deniz.sanli\\source\\repos\\ECommerce.API\\ECommerce.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "ECommerce.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAIA3wCAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T07:36:18.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersService.cs",
+              "DocumentMoniker": "C:\\Users\\deniz.sanli\\source\\repos\\ECommerce.API\\ECommerce.Core\\Services\\UsersService.cs",
+              "RelativeDocumentMoniker": "ECommerce.Core\\Services\\UsersService.cs",
+              "ToolTip": "C:\\Users\\deniz.sanli\\source\\repos\\ECommerce.API\\ECommerce.Core\\Services\\UsersService.cs",
+              "RelativeToolTip": "ECommerce.Core\\Services\\UsersService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAhwBIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T07:35:52.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\deniz.sanli\\source\\repos\\ECommerce.API\\ECommerce.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ECommerce.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\deniz.sanli\\source\\repos\\ECommerce.API\\ECommerce.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ECommerce.API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADgvyQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T07:15:46.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthenticationResponse.cs",
+              "DocumentMoniker": "C:\\Users\\deniz.sanli\\source\\repos\\ECommerce.API\\ECommerce.Core\\DTO\\AuthenticationResponse.cs",
+              "RelativeDocumentMoniker": "ECommerce.Core\\DTO\\AuthenticationResponse.cs",
+              "ToolTip": "C:\\Users\\deniz.sanli\\source\\repos\\ECommerce.API\\ECommerce.Core\\DTO\\AuthenticationResponse.cs",
+              "RelativeToolTip": "ECommerce.Core\\DTO\\AuthenticationResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T05:57:08.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GenderOptions.cs",
+              "DocumentMoniker": "C:\\Users\\deniz.sanli\\source\\repos\\ECommerce.API\\ECommerce.Core\\Enums\\GenderOptions.cs",
+              "RelativeDocumentMoniker": "ECommerce.Core\\Enums\\GenderOptions.cs",
+              "ToolTip": "C:\\Users\\deniz.sanli\\source\\repos\\ECommerce.API\\ECommerce.Core\\Enums\\GenderOptions.cs",
+              "RelativeToolTip": "ECommerce.Core\\Enums\\GenderOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T05:55:45.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\deniz.sanli\\source\\repos\\ECommerce.API\\ECommerce.Core\\DTO\\RegisterRequestDTO.cs",
+              "RelativeDocumentMoniker": "ECommerce.Core\\DTO\\RegisterRequestDTO.cs",
+              "ToolTip": "C:\\Users\\deniz.sanli\\source\\repos\\ECommerce.API\\ECommerce.Core\\DTO\\RegisterRequestDTO.cs",
+              "RelativeToolTip": "ECommerce.Core\\DTO\\RegisterRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T05:54:06.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\deniz.sanli\\source\\repos\\ECommerce.API\\ECommerce.Core\\DTO\\LoginRequestDTO.cs",
+              "RelativeDocumentMoniker": "ECommerce.Core\\DTO\\LoginRequestDTO.cs",
+              "ToolTip": "C:\\Users\\deniz.sanli\\source\\repos\\ECommerce.API\\ECommerce.Core\\DTO\\LoginRequestDTO.cs",
+              "RelativeToolTip": "ECommerce.Core\\DTO\\LoginRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T05:51:12.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicaionUser.cs",
+              "DocumentMoniker": "C:\\Users\\deniz.sanli\\source\\repos\\ECommerce.API\\ECommerce.Core\\Entities\\ApplicaionUser.cs",
+              "RelativeDocumentMoniker": "ECommerce.Core\\Entities\\ApplicaionUser.cs",
+              "ToolTip": "C:\\Users\\deniz.sanli\\source\\repos\\ECommerce.API\\ECommerce.Core\\Entities\\ApplicaionUser.cs",
+              "RelativeToolTip": "ECommerce.Core\\Entities\\ApplicaionUser.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T05:48:18.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\deniz.sanli\\source\\repos\\ECommerce.API\\ECommerce.API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "ECommerce.API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\deniz.sanli\\source\\repos\\ECommerce.API\\ECommerce.API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "ECommerce.API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T05:27:24.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\deniz.sanli\\source\\repos\\ECommerce.API\\ECommerce.Core\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "ECommerce.Core\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\deniz.sanli\\source\\repos\\ECommerce.API\\ECommerce.Core\\DependencyInjection.cs",
+              "RelativeToolTip": "ECommerce.Core\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T05:19:34.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\deniz.sanli\\source\\repos\\ECommerce.API\\ECommerce.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "ECommerce.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\deniz.sanli\\source\\repos\\ECommerce.API\\ECommerce.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "ECommerce.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T05:14:00.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\deniz.sanli\\source\\repos\\ECommerce.API\\ECommerce.API\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerce.API\\Program.cs",
+              "ToolTip": "C:\\Users\\deniz.sanli\\source\\repos\\ECommerce.API\\ECommerce.API\\Program.cs",
+              "RelativeToolTip": "ECommerce.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T05:13:16.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\deniz.sanli\\source\\repos\\ECommerce.API\\ECommerce.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ECommerce.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\deniz.sanli\\source\\repos\\ECommerce.API\\ECommerce.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ECommerce.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-03T05:07:49.699Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

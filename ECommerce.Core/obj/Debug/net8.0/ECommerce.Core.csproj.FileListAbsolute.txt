@@ -1,0 +1,13 @@
+C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.Core\bin\Debug\net8.0\ECommerce.Core.deps.json
+C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.Core\bin\Debug\net8.0\ECommerce.Core.dll
+C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.Core\bin\Debug\net8.0\ECommerce.Core.pdb
+C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.Core\obj\Debug\net8.0\ECommerce.Core.csproj.AssemblyReference.cache
+C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.Core\obj\Debug\net8.0\ECommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.Core\obj\Debug\net8.0\ECommerce.Core.AssemblyInfoInputs.cache
+C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.Core\obj\Debug\net8.0\ECommerce.Core.AssemblyInfo.cs
+C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.Core\obj\Debug\net8.0\ECommerce.Core.csproj.CoreCompileInputs.cache
+C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.Core\obj\Debug\net8.0\ECommerce.Core.sourcelink.json
+C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.Core\obj\Debug\net8.0\ECommerce.Core.dll
+C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.Core\obj\Debug\net8.0\refint\ECommerce.Core.dll
+C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.Core\obj\Debug\net8.0\ECommerce.Core.pdb
+C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.Core\obj\Debug\net8.0\ref\ECommerce.Core.dll
