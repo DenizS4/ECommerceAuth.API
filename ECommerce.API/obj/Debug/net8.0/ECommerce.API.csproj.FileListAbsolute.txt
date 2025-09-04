@@ -236,3 +236,11 @@ C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.API\obj\Debug\net8.0\s
 C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ECommerce.API.props
 C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ECommerce.API.props
 C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.API\obj\Debug\net8.0\ECommerce.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\deniz.sanli\source\repos\ECommerce.API\ECommerce.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll

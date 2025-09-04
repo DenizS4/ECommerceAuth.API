@@ -3,6 +3,7 @@ using ECommerce.Core;
 using ECommerce.Infrastructure;
 using System.Text.Json.Serialization;
 using ECommerce.Core.MappingProfiles;
+using FluentValidation.AspNetCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -21,12 +22,31 @@ builder.Services.AddAutoMapper(cfg =>
     cfg.AllowNullDestinationValues = true;
 
 }, typeof(UserMapProfiles).Assembly);
+
+//fluent validation
 //Build the web application
+builder.Services.AddFluentValidationAutoValidation();
+
+// Add Api Explorer 
+builder.Services.AddEndpointsApiExplorer();
+// Add Swagger 
+builder.Services.AddSwaggerGen();
+builder.Services.AddCors(x =>
+{
+    x.AddDefaultPolicy(y =>
+    {
+        y.WithOrigins("http://localhost:4200").AllowAnyMethod().AllowAnyHeader();
+    });
+});
+
 var app = builder.Build();
 app.UseExceptionHandlingMiddleware();
 //Routing
 app.UseRouting();
+app.UseSwagger(); // Adds swagger
+app.UseSwaggerUI();
 
+app.UseCors();
 //Auth
 app.UseAuthentication();
 app.UseAuthorization();

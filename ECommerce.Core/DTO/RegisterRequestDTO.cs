@@ -10,5 +10,5 @@ namespace ECommerce.Core.DTO
     public record RegisterRequestDTO(string? Email,
     string? Password,
     string? PersonName,
-    GenderOptions Gender);
+    GenderOptions? Gender);
 }

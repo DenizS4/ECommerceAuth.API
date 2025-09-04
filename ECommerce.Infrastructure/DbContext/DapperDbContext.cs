@@ -11,8 +11,8 @@ public class DapperDbContext
     private readonly IDbConnection _connection;
     public DapperDbContext(IConfiguration configuration)
     {
-        configuration = configuration ?? throw new ArgumentNullException(nameof(configuration));
-        string? connectionString = configuration.GetConnectionString("PostgreSQL");
+        _configuration = configuration ?? throw new ArgumentNullException(nameof(configuration));
+        string? connectionString = _configuration.GetConnectionString("PostgreSQL");
         
         // Npg Sql Connection
 

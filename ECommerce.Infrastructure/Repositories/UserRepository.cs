@@ -28,7 +28,7 @@ internal class UserRepository: IUserRepository
 
     public async Task<ApplicationUser?> AuthenticateUser(string? email, string? password)
     {
-        string query = "Select * from public.\"Users\" Where \"Email\" = @Email And \"Password\" = @Password VALUES(@Email, @Password)";
+        string query = "Select * from public.\"Users\" Where \"Email\" = @Email And \"Password\" = @Password";
         var parameters = new {Email = email, Password = password};
         var user = await _context.DbConnection.QueryFirstOrDefaultAsync<ApplicationUser>(query, parameters);
         if (user == null)
